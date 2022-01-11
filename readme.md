@@ -23,11 +23,11 @@ Création de 4 méthodes : fizz, buzz, buzzfizz et check permettant de vérifier
 
 ### Exécution du programme
 
-node index.js
+`node main.js`
 
 ou
 
-yarn start
+`npm start`
 
 ## Autres Solutions
 
@@ -43,11 +43,11 @@ Tests Unitaires réalisés avec Jest
 
 ## Installation du projet
 
-yarn install
+`npm install`
 
 ### Exécution des tests
 
-yarn test
+`npm test`
 
 ---
 

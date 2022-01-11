@@ -1,4 +1,4 @@
-module.exports = class Fizzbuzz {
+class Fizzbuzz {
     fizz(number) {
         return number % 3 === 0;
     }
@@ -17,6 +17,6 @@ module.exports = class Fizzbuzz {
         else if (this.fizz(number)) return "Fizz";
         else return number;
     }
-
-
 }
+
+module.exports = Fizzbuzz;

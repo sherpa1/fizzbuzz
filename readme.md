@@ -1,5 +1,7 @@
 # Fizz Buzz
 
+Fizz buzz (often spelled FizzBuzz in this context) has been used as an interview screening device for computer programmers. Writing a program to output the first 100 FizzBuzz numbers is a trivial problem for any would-be computer programmer, so interviewers can easily filter out those with insufficient programming ability.
+
 ## Enoncé
 
 - Ecrire un programme qui retourne les entiers de 1 à 100
@@ -49,13 +51,15 @@ yarn test
 
 ---
 
-Auteur :
+**Alexandre Leroux**
 
-Alexandre Leroux (<alex@sherpa.one>)
+- _Mail_ : alex@sherpa.one
+- _Github_ : sherpa1
+- _Twitter_ : @_sherpa_
+- _Discord_ : sherpa#3890
 
-Enseignant à l'Université Lorraine :
+_Enseignant vacataire à l'Université de Lorraine_
 
-- IUT Charlemagne (LP Ciasie),
-- Institut des Sciences du Digital IDMC (Master Sciences Cognitives),
+- IUT Nancy-Charlemagne (LP Ciasie)
 
-Octobre 2019
+- Institut des Sciences du Digital, Management & Cognition (Masters Sciences Cognitives)

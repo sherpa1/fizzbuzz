@@ -35,6 +35,8 @@ Différentes solutions en JavaScript
 
 <https://learnjswith.me/javascript-fizzbuzz/>
 
+https://devdojo.com/posandu/lets-code-golf-with-javascript
+
 ## Tests
 
 Tests Unitaires réalisés avec Jest
